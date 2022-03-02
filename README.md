@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hola! Soy Juan Franco Flores 👋
 
+- 🔭 Actualmente trabajo en Inelco Ingeniería, desarrollando sistemas de control en microcontroladores.
+- 🌱 Estoy haciendo el bootcamp de Full Stack Node de Digital House.
+- ⚡ Me gusta jugar con single board computers, la domótica, la impresión 3d y cualquier otro tipo de CNC. 
+ 
 <!--
 **juanfranflores/juanfranflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

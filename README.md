@@ -1,7 +1,8 @@
 ### Hola! Soy Juan Franco Flores 👋
 
 - 🔭 Actualmente trabajo en Inelco Ingeniería, desarrollando sistemas de control en microcontroladores.
-- 🌱 Estoy haciendo el bootcamp de Full Stack Node de Digital House.
+- ✨ Estoy haciendo el bootcamp de Full Stack Node de Digital House.
+- 🌱 Soy estudiante de ingeniería electrónica en la UNCO.
 - ⚡ Me gusta jugar con single board computers, la domótica, la impresión 3d y cualquier otro tipo de CNC. 
  
 <!--

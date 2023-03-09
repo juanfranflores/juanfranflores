@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Franco Flores Ponzoni</h1>
 <h3 align="center">A software developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Inelco Ingenieria.**
+- 🔭 I’m currently working at **Inelco Ingenieria.**
 
 - 🌱 I’m currently learning **Flutter and Firebase**
 

@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Juan Franco Flores Ponzoni</h1>
-<h3 align="center">A software developer from Argentina</h3>
+<h1 align="center">Hi 👋, my name is Juan Franco Flores Ponzoni</h1>
+<h3 align="center">I'm software developer from Argentina</h3>
 
 - 🔭 I’m currently working at **Inelco Ingenieria.**
-
-- 🌱 I’m currently learning **Flutter and Firebase**
-
-- 👯 I’m looking to collaborate on **Raspberry pi/ pi pico projects.**
 
 - 📫 How to reach me **juan27fp@gmail.com**
 
